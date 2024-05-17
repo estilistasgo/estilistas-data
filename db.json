@@ -1,113 +1,114 @@
-{ "data":  [
-  {
-    "id": 1,
-    "name": "Ana García",
-    "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
-    "location": {
-      "latitude": 10.5911,
-      "longitude": -71.6419
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ana García",
+      "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
+      "location": {
+        "latitude": 10.5911,
+        "longitude": -71.6419
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 2,
-    "name": "Carlos López",
-    "specialties": ["Corte de mujeres con tijeras", "Planchado de cabello"],
-    "location": {
-      "latitude": 10.5768,
-      "longitude": -71.5576
+    {
+      "id": 2,
+      "name": "Carlos López",
+      "specialties": ["Corte de mujeres con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.5768,
+        "longitude": -71.5576
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 3,
-    "name": "Beatriz Martínez",
-    "specialties": ["Corte de niños con maquina", "Secado de cabello"],
-    "location": {
-      "latitude": 10.6026,
-      "longitude": -71.6342
+    {
+      "id": 3,
+      "name": "Beatriz Martínez",
+      "specialties": ["Corte de niños con maquina", "Secado de cabello"],
+      "location": {
+        "latitude": 10.6026,
+        "longitude": -71.6342
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 4,
-    "name": "Daniela Pérez",
-    "specialties": ["Corte de hombres con maquina", "Planchado de cabello"],
-    "location": {
-      "latitude": 10.5468,
-      "longitude": -71.5925
+    {
+      "id": 4,
+      "name": "Daniela Pérez",
+      "specialties": ["Corte de hombres con maquina", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.5468,
+        "longitude": -71.5925
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 5,
-    "name": "Eduardo Ramírez",
-    "specialties": ["Corte de mujeres con maquina", "Secado de cabello"],
-    "location": {
-      "latitude": 10.5807,
-      "longitude": -71.6095
+    {
+      "id": 5,
+      "name": "Eduardo Ramírez",
+      "specialties": ["Corte de mujeres con maquina", "Secado de cabello"],
+      "location": {
+        "latitude": 10.5807,
+        "longitude": -71.6095
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 6,
-    "name": "Fernanda Sánchez",
-    "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
-    "location": {
-      "latitude": 10.5584,
-      "longitude": -71.5721
+    {
+      "id": 6,
+      "name": "Fernanda Sánchez",
+      "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.5584,
+        "longitude": -71.5721
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 7,
-    "name": "Gabriel Torres",
-    "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
-    "location": {
-      "latitude": 10.6012,
-      "longitude": -71.6298
+    {
+      "id": 7,
+      "name": "Gabriel Torres",
+      "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
+      "location": {
+        "latitude": 10.6012,
+        "longitude": -71.6298
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 8,
-    "name": "Hilda Fernández",
-    "specialties": ["Corte de mujeres con maquina", "Planchado de cabello"],
-    "location": {
-      "latitude": 10.5713,
-      "longitude": -71.5883
+    {
+      "id": 8,
+      "name": "Hilda Fernández",
+      "specialties": ["Corte de mujeres con maquina", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.5713,
+        "longitude": -71.5883
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 9,
-    "name": "Iván Gómez",
-    "specialties": ["Corte de hombres con maquina", "Secado de cabello"],
-    "location": {
-      "latitude": 10.5869,
-      "longitude": -71.6037
+    {
+      "id": 9,
+      "name": "Iván Gómez",
+      "specialties": ["Corte de hombres con maquina", "Secado de cabello"],
+      "location": {
+        "latitude": 10.5869,
+        "longitude": -71.6037
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
     },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  },
-  {
-    "id": 10,
-    "name": "Jazmín Díaz",
-    "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
-    "location": {
-      "latitude": 10.5957,
-      "longitude": -71.6289
-    },
-    "photo": "https://via.placeholder.com/150",
-    "phone": "+584141234567"
-  }
-]
+    {
+      "id": 10,
+      "name": "Jazmín Díaz",
+      "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.5957,
+        "longitude": -71.6289
+      },
+      "photo": "https://via.placeholder.com/150",
+      "phone": "+584141234567"
+    }
+  ]
 }
