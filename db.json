@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "name": "Ana García",
+      "name": "Andrés García",
       "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
       "location": {
         "latitude": 10.5911,
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "name": "Beatriz Martínez",
+      "name": "Roberto Martínez",
       "specialties": ["Corte de niños con maquina", "Secado de cabello"],
       "location": {
         "latitude": 10.6026,
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "name": "Daniela Pérez",
+      "name": "Daniel Pérez",
       "specialties": ["Corte de hombres con maquina", "Planchado de cabello"],
       "location": {
         "latitude": 10.5468,
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "name": "Fernanda Sánchez",
+      "name": "Fernando Sánchez",
       "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
       "location": {
         "latitude": 10.5584,
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "name": "Gabriel Torres",
+      "name": "Gabriela Torres",
       "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
       "location": {
         "latitude": 10.6012,
@@ -90,7 +90,7 @@
     },
     {
       "id": 9,
-      "name": "Iván Gómez",
+      "name": "Ivanna Gómez",
       "specialties": ["Corte de hombres con maquina", "Secado de cabello"],
       "location": {
         "latitude": 10.5869,
