@@ -16,8 +16,8 @@
       "name": "Carlos López",
       "specialties": ["Corte de mujeres con tijeras", "Planchado de cabello"],
       "location": {
-        "latitude": 10.5768,
-        "longitude": -71.5576
+        "latitude": 10.569349630780824, 
+        "longitude": -71.6244496490464
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista2.jpg",
       "phone": "+584141234567"
@@ -38,8 +38,8 @@
       "name": "Daniel Pérez",
       "specialties": ["Corte de hombres con maquina", "Planchado de cabello"],
       "location": {
-        "latitude": 10.5468,
-        "longitude": -71.5925
+        "latitude": 10.565500022304985, 
+        "longitude": -71.62372008853508
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista4.jpg",
       "phone": "+584141234567"
@@ -49,8 +49,9 @@
       "name": "Eduardo Ramírez",
       "specialties": ["Corte de mujeres con maquina", "Secado de cabello"],
       "location": {
-        "latitude": 10.5807,
-        "longitude": -71.6095
+        
+        "latitude": 10.571661910121316, 
+        "longitude": -71.6182315462057
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista5.jpg",
       "phone": "+584141234567"
@@ -60,8 +61,8 @@
       "name": "Fernando Sánchez",
       "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
       "location": {
-        "latitude": 10.5584,
-        "longitude": -71.5721
+        "latitude": 10.568168386206331, 
+        "longitude": -71.6186989933181
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista6.jpg",
       "phone": "+584141234567"
@@ -82,8 +83,9 @@
       "name": "Hilda Fernández",
       "specialties": ["Corte de mujeres con maquina", "Planchado de cabello"],
       "location": {
-        "latitude": 10.5713,
-        "longitude": -71.5883
+        
+        "latitude": 10.570398624198754, 
+        "longitude": -71.61681340029978
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista8.jpg",
       "phone": "+584141234567"
