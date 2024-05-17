@@ -95,8 +95,8 @@
       "name": "Ivanna Gómez",
       "specialties": ["Corte de hombres con maquina", "Secado de cabello"],
       "location": {
-        "latitude": 10.5869,
-        "longitude": -71.6037
+        "latitude": 10.570193374121578, 
+        "longitude": -71.62741617207482
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista9.jpg",
       "phone": "+584141234567"
@@ -106,8 +106,8 @@
       "name": "Jazmín Díaz",
       "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
       "location": {
-        "latitude": 10.5957,
-        "longitude": -71.6289
+        "latitude": 10.575239778095167, 
+        "longitude": -71.62065225790073
       },
       "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista10.jpg",
       "phone": "+584141234567"
