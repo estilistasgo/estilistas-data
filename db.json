@@ -1,142 +1,116 @@
-[
-  {
-    "id": 1,
-    "name": "Andrés García",
-    "specialties": [
-      "Corte de hombres con tijeras",
-      "Secado de cabello"
-    ],
-    "location": {
-      "latitude": 10.5911,
-      "longitude": -71.6419
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Andrés García",
+      "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
+      "location": {
+        "latitude": 10.5911,
+        "longitude": -71.6419
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista1.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista1.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 2,
-    "name": "Carlos López",
-    "specialties": [
-      "Corte de mujeres con tijeras",
-      "Planchado de cabello"
-    ],
-    "location": {
-      "latitude": 10.569349630780824,
-      "longitude": -71.6244496490464
+    {
+      "id": 2,
+      "name": "Carlos López",
+      "specialties": ["Corte de mujeres con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.569349630780824, 
+        "longitude": -71.6244496490464
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista2.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista2.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 3,
-    "name": "Roberto Martínez",
-    "specialties": [
-      "Corte de niños con maquina",
-      "Secado de cabello"
-    ],
-    "location": {
-      "latitude": 10.6026,
-      "longitude": -71.6342
+    {
+      "id": 3,
+      "name": "Roberto Martínez",
+      "specialties": ["Corte de niños con maquina", "Secado de cabello"],
+      "location": {
+        "latitude": 10.6026,
+        "longitude": -71.6342
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista3.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista3.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 4,
-    "name": "Daniel Pérez",
-    "specialties": [
-      "Corte de hombres con maquina",
-      "Planchado de cabello"
-    ],
-    "location": {
-      "latitude": 10.565500022304985,
-      "longitude": -71.62372008853508
+    {
+      "id": 4,
+      "name": "Daniel Pérez",
+      "specialties": ["Corte de hombres con maquina", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.565500022304985, 
+        "longitude": -71.62372008853508
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista4.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista4.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 5,
-    "name": "Eduardo Ramírez",
-    "specialties": [
-      "Corte de mujeres con maquina",
-      "Secado de cabello"
-    ],
-    "location": {
-      "latitude": 10.571661910121316,
-      "longitude": -71.6182315462057
+    {
+      "id": 5,
+      "name": "Eduardo Ramírez",
+      "specialties": ["Corte de mujeres con maquina", "Secado de cabello"],
+      "location": {
+        
+        "latitude": 10.571661910121316, 
+        "longitude": -71.6182315462057
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista5.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista5.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 6,
-    "name": "Fernando Sánchez",
-    "specialties": [
-      "Corte de niños con tijeras",
-      "Planchado de cabello"
-    ],
-    "location": {
-      "latitude": 10.568168386206331,
-      "longitude": -71.6186989933181
+    {
+      "id": 6,
+      "name": "Fernando Sánchez",
+      "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.568168386206331, 
+        "longitude": -71.6186989933181
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista6.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista6.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 7,
-    "name": "Gabriela Torres",
-    "specialties": [
-      "Corte de hombres con tijeras",
-      "Secado de cabello"
-    ],
-    "location": {
-      "latitude": 10.6012,
-      "longitude": -71.6298
+    {
+      "id": 7,
+      "name": "Gabriela Torres",
+      "specialties": ["Corte de hombres con tijeras", "Secado de cabello"],
+      "location": {
+        "latitude": 10.6012,
+        "longitude": -71.6298
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista7.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista7.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 8,
-    "name": "Hilda Fernández",
-    "specialties": [
-      "Corte de mujeres con maquina",
-      "Planchado de cabello"
-    ],
-    "location": {
-      "latitude": 10.570398624198754,
-      "longitude": -71.61681340029978
+    {
+      "id": 8,
+      "name": "Hilda Fernández",
+      "specialties": ["Corte de mujeres con maquina", "Planchado de cabello"],
+      "location": {
+        
+        "latitude": 10.570398624198754, 
+        "longitude": -71.61681340029978
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista8.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista8.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 9,
-    "name": "Ivanna Gómez",
-    "specialties": [
-      "Corte de hombres con maquina",
-      "Secado de cabello"
-    ],
-    "location": {
-      "latitude": 10.576912134794586,
-      "longitude": -71.62475651800266
+    {
+      "id": 9,
+      "name": "Ivanna Gómez",
+      "specialties": ["Corte de hombres con maquina", "Secado de cabello"],
+      "location": {
+        "latitude": 10.570193374121578, 
+        "longitude": -71.62741617207482
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista9.jpg",
+      "phone": "584141234567"
     },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista9.jpg",
-    "phone": "584141234567"
-  },
-  {
-    "id": 10,
-    "name": "Jazmín Díaz",
-    "specialties": [
-      "Corte de niños con tijeras",
-      "Planchado de cabello"
-    ],
-    "location": {
-      "latitude": 10.575239778095167,
-      "longitude": -71.62065225790073
-    },
-    "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista10.jpg",
-    "phone": "584141234567"
-  }
-]
+    {
+      "id": 10,
+      "name": "Jazmín Díaz",
+      "specialties": ["Corte de niños con tijeras", "Planchado de cabello"],
+      "location": {
+        "latitude": 10.575239778095167, 
+        "longitude": -71.62065225790073
+      },
+      "photo": "https://raw.githubusercontent.com/estilistasgo/estilistas-data/main/images/estilista10.jpg",
+      "phone": "584141234567"
+    }
+  ]
+}
